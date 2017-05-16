@@ -1,0 +1,8 @@
+server:
+  port: 8000
+
+web:
+  resolverPrefix: /WEB-INF/
+  resolverSuffix: .jsp
+  resourceHandler: /resources/**
+  resourceLocation: /resources/
